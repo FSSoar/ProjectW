@@ -4,6 +4,7 @@
 //
 //  Created by Himanshu Minocha on 12/18/15.
 //  Copyright © 2015 Himanshu Minocha. All rights reserved.
+//  Copyright © 2015 Maz Ahmad.  All rights reserved.
 //
 
 import UIKit
