@@ -78,7 +78,7 @@ class ViewController: UIViewController {
     
     
 
-     //   let moleImg = UIImage(named: "StickFigureME")
+            //   let moleImg = UIImage(named: "StickFigureME")
      //       mole.setImage(moleImg, forState: .Normal)
         }
 

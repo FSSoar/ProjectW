@@ -2,4 +2,102 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhackAMole/ViewController.swift"
+            timestampString = "474955183.964642"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "generateMole()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhackAMole.ViewController.generateMole (WhackAMole.ViewController)() -&gt; ()"
+                  moduleName = "WhackAMole"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Himanshu/Downloads/ProjectW/WhackAMole/ViewController.swift"
+                  timestampString = "474955183.985467"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "2837">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhackAMole.ViewController.generateMole (WhackAMole.ViewController)() -&gt; ()"
+                  moduleName = "WhackAMole"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Himanshu/Downloads/ProjectW/WhackAMole/ViewController.swift"
+                  timestampString = "474955183.988368"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "2861">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WhackAMole/ViewController.swift"
+            timestampString = "474955184.516809"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "generateMole()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhackAMole.ViewController.generateMole (WhackAMole.ViewController)() -&gt; ()"
+                  moduleName = "WhackAMole"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Himanshu/Downloads/ProjectW/WhackAMole/ViewController.swift"
+                  timestampString = "474955184.518109"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "2837">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WhackAMole.ViewController.generateMole (WhackAMole.ViewController)() -&gt; ()"
+                  moduleName = "WhackAMole"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Himanshu/Downloads/ProjectW/WhackAMole/ViewController.swift"
+                  timestampString = "474955184.518324"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "2861">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
