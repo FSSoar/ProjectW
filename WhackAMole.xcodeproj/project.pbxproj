@@ -34,6 +34,7 @@
 		A3A842A61C2503FA00C00B8E /* o_01ae3237611612fd-8.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A842951C2503FA00C00B8E /* o_01ae3237611612fd-8.png */; };
 		A3A842A71C2503FA00C00B8E /* o_01ae3237611612fd-9.png in Resources */ = {isa = PBXBuildFile; fileRef = A3A842961C2503FA00C00B8E /* o_01ae3237611612fd-9.png */; };
 		A3ECC7761C4E97F50062963C /* GraphicsClassses.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3ECC7751C4E97F50062963C /* GraphicsClassses.swift */; };
+		A3FFE9F41C4F29AE008E4409 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3FFE9F31C4F29AE008E4409 /* Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +88,7 @@
 		A3A842951C2503FA00C00B8E /* o_01ae3237611612fd-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "o_01ae3237611612fd-8.png"; sourceTree = "<group>"; };
 		A3A842961C2503FA00C00B8E /* o_01ae3237611612fd-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "o_01ae3237611612fd-9.png"; sourceTree = "<group>"; };
 		A3ECC7751C4E97F50062963C /* GraphicsClassses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GraphicsClassses.swift; sourceTree = "<group>"; };
+		A3FFE9F31C4F29AE008E4409 /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 			children = (
 				A3A842521C2467A300C00B8E /* AppDelegate.swift */,
 				A3ECC7751C4E97F50062963C /* GraphicsClassses.swift */,
+				A3FFE9F31C4F29AE008E4409 /* Colors.swift */,
 				A3A842541C2467A300C00B8E /* ViewController.swift */,
 				A3A842561C2467A300C00B8E /* Main.storyboard */,
 				A3A8425C1C2467A300C00B8E /* Assets.xcassets */,
@@ -343,6 +346,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3A8425B1C2467A300C00B8E /* WhackAMole.xcdatamodeld in Sources */,
+				A3FFE9F41C4F29AE008E4409 /* Colors.swift in Sources */,
 				A3A842551C2467A300C00B8E /* ViewController.swift in Sources */,
 				A3A842531C2467A300C00B8E /* AppDelegate.swift in Sources */,
 				A3ECC7761C4E97F50062963C /* GraphicsClassses.swift in Sources */,

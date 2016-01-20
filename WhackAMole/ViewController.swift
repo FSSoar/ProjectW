@@ -12,6 +12,8 @@ import UIKit
 class ViewController: UIViewController {
     
     
+    var c = CustomColors()
+    
     var score:Int = 0;
     @IBOutlet weak var scoreLabel:UILabel!
     
@@ -51,14 +53,16 @@ class ViewController: UIViewController {
         else {
         
         
-        var mole = UIButton()
+        var mole = concentricCirclesButon()
         
         let randomPositionX = CGFloat(arc4random_uniform(UInt32(self.view.frame.width - 60)))
         
         
          let randomPositionY = CGFloat(arc4random_uniform(UInt32(self.view.frame.height) - 60))
         
-        mole.backgroundColor = UIColor.blueColor()
+        mole.InteriorColor = c.lightBlue()
+        mole.ExteriorColor = c.offWhite()
+            mole.thinckness = 6
         
         mole.frame = CGRectMake(randomPositionX, randomPositionY, 60, 60)
        
@@ -74,10 +78,8 @@ class ViewController: UIViewController {
     
     
 
-        let moleImg = UIImage(named: "StickFigureME")
-            mole.setImage(moleImg, forState: .Normal)
-        
-        
+     //   let moleImg = UIImage(named: "StickFigureME")
+     //       mole.setImage(moleImg, forState: .Normal)
         }
 
         
